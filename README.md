@@ -16,7 +16,7 @@
 
 `npm install`
 
-# Npm bilt
+# Npm built
 
 `npm run dev || npm run watch`
 
